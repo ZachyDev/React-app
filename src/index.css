@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.Welcome{
+  color:rgb(25, 25, 201);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background:rgb(0,0,0);
+  font-size: 20px;
+  width: 100%;
+  height: 20vh;
+}
+.click{
+  width: 50%;
+  height: 100vh;
+  border-radius: 50%;
+}
+
